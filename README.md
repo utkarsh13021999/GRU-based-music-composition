@@ -23,10 +23,13 @@ $ python sample.py
 
 Sample Output 
 
+II##naki+Qnle's vi#u## f2e/2"^m"f2d "A"e3||
+
 "Bm"B2d "E7/e"e2d|"A"c2A A2c|"B7"dcB A2F|"E7"E3 -"E7"e2d|"A"cec A2c|
 "E7"BAB d2e|"A"f2e "E7"fed|"A"c2A AGA|"C"=GEE G2:|
 K:D
 |:"C"e2c "F#m"e2c|"Bm"d2f "E7"efg|"A"a2a "D"agf|"A"edc "D"d2:|
+
 
 X: 224
 T:O Tailh Wofish
